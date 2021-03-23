@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#ghdfhdfd
 #LC_ALL=ru_RU.utf8 echo "SharkText To Encode!" | tr '[A-Za-zА-Я]' '[X-ZA-Wx-za-wН-ЯА-М]'
 
 file="/tmp/cipher.txt"
